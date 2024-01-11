@@ -34,13 +34,7 @@ const Utterances: React.FC<Props> = ({ issueTerm }) => {
       anchor.innerHTML = ""
     }
   }, [scheme, router])
-  return (
-    <>
-      <StyledWrapper id="comments">
-        <div className="utterances-frame"></div>
-      </StyledWrapper>
-    </>
-  )
+  return <StyledWrapper id="comments" />
 }
 
 export default Utterances
