@@ -7,12 +7,11 @@ const CONFIG = {
     email: "gueit214@naver.com",
     linkedin: "guesung",
     github: "guesung",
-    instagram: "guesung",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: "gloddy",
+      href: "https://github.com/gloddy-dev/gloddy-client",
     },
   ],
   // blog setting (required)
