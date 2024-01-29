@@ -7,6 +7,7 @@ const CONFIG = {
     email: "gueit214@naver.com",
     linkedin: "guesung",
     github: "guesung",
+    instagram: "",
   },
   projects: [
     {
